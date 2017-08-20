@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Hamberger Icon</string>
+    <string name="open_drawer">Open Drawer Menu</string>
+    <string name="close_drawer">Close Drawer Ment</string>
 </resources>
